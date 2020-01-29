@@ -1,4 +1,4 @@
-﻿#target bridge
+﻿#target bridge-10
 
 if (BridgeTalk.appName == 'bridge')
 
@@ -28,7 +28,7 @@ SOFTWARE.
 var projectName1 = "Custom Metadata" // human friendly
 var projectName2 = "Custom_Metadata" // computer friendly.  filenames - don't use spaces, use camelCase or _ or -
 var plgnVers = "1.0";
-var codeVers = "2020-01-20"
+var codeVers = "2020-01-28"
 // added .hide() to all palette .close(), fixed Mapping display; changed export file name to current foler+dateYMD; replaced type with xmpType; replaced header with label
 // changed field arr to new style; using indexOf to remove prefix from XMP_Property for read/write; fixed fieldList.add to use dropdown field text
 // added new build properties; added populate fields list based on lastViewedHeadersPanel; register namespaces from lastViewedHeadersPanel
@@ -53,7 +53,7 @@ var codeVers = "2020-01-20"
 
 
 { // brace 1 open
-
+/*
 //Create a menu option within Adobe Bridge
 var findProjectMenu = MenuElement.find (projectName2);
 if (findProjectMenu == null){
@@ -61,7 +61,7 @@ if (findProjectMenu == null){
 	}
 var projectName2ExpImp = new MenuElement ('command', "Metadata Export-Import", 'at the beginning of '+projectName2);
 projectName2ExpImp.onSelect = function()
-
+*/
 	{ // brace 2 open
      // Load the XMP Script library
      if( xmpLib == undefined ){
