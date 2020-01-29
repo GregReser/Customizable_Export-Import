@@ -1638,7 +1638,7 @@ else{alert("All field boxes must be filled in")}
 // dimL = [0,0,1100,450]  [0, 0, 1080, 450]
 // create list box with five titled columns for the field components
 var fieldList =fieldsWindow.add ('ListBox', [0,0,1000,450], 'Fields',
-{numberOfColumns: 5, showHeaders: false,
+{numberOfColumns: 5, showHeaders: true,
 columnTitles: ['Field', 'My Label', 'Namespace', 'XMP_Property', 'XMP_Type'], columnWidths: [200,200,300,200,80]});
 //fieldList.alignment = 'right';
 fieldList.indent = 110;
