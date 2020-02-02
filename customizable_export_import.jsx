@@ -53,7 +53,7 @@ var codeVers = "2020-01-28"
 
 
 { // brace 1 open
-/*
+
 //Create a menu option within Adobe Bridge
 var findProjectMenu = MenuElement.find (projectName2);
 if (findProjectMenu == null){
@@ -61,7 +61,7 @@ if (findProjectMenu == null){
 	}
 var projectName2ExpImp = new MenuElement ('command', "Metadata Export-Import", 'at the beginning of '+projectName2);
 projectName2ExpImp.onSelect = function()
-*/
+
 	{ // brace 2 open
      // Load the XMP Script library
      if( xmpLib == undefined ){
