@@ -39,10 +39,7 @@ THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.*
   2. Click "Metadata Export-Import" on the dropdown
 
 
-/////////////////////////////////////////
-// Terms and Conditions //
-/////////////////////////////////////////
-
+## Terms and Conditions
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
