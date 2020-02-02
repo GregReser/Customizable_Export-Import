@@ -3,7 +3,7 @@ Javascript plugin for Adobe Bridge CS5 and higher that allows the user to export
 
 Supported file types: ai, avi, bmp, dng, flv, gif, indd, indt, jpg, mp2, mp3, mp4, mov, pdf, png, psd, swf, tiff, wav, wma, wmv
 
-Main features
+## Main features
  - Export-import from select file(s) or from an entire folder (with option to include all subfolders)
  - Export-import metadata in tab-delimited text files
  - User can define which feilds to export-import.
@@ -16,24 +16,21 @@ Backup your files first
 IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY XMP INFO PANEL INFO PANEL.	
 THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.*	
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////
-// INSTALLATION  ///////////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////////////////////////////////// 
-
-	1. Start Adobe Bridge
-	2. Go to Bridge Preferences
-		Windows:
-			Go to Edit --> Preferences --> Startup Scripts
-		Mac:
-			Go to Adobe Bridge --> Preferences --> Startup Scripts
-	3. Click "Reveal My Startup Scripts".  This will open the correct folder
-	4. In this folder, copy the the downloaded files
-		"VRA_Metadata_Palette_[version number].jsx"
-	5. Close the folder
-	6. Quit Bridge
-	7. Start Bridge
-	8. When prompted, confirm the installation of both:
-		"VRA_Export-Import_Indexed"
+## Installation
+ 1. Start Adobe Bridge
+ 2. Go to Bridge Preferences
+ 
+    Windows
+      - Go to Edit --> Preferences --> Startup Scripts
+    
+    Mac:
+      - Go to Adobe Bridge --> Preferences --> Startup Scripts
+ 3. Click "Reveal My Startup Scripts".  This will open the correct folder
+ 4. In this folder, copy the the downloaded file "user_customizable_export_import.jsx"
+ 5. Close the folder
+ 6. Quit Bridge
+ 7. Start Bridge
+ 8. When prompted, confirm the installation of "user_customizable_export_import"
 
 ///////////////////
 // To open //
