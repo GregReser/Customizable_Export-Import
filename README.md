@@ -39,7 +39,6 @@ THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.*
   2. Click "Metadata Export-Import" on the dropdown
 	
 
-
 /////////////////////////////////////////
 // Terms and Conditions //
 /////////////////////////////////////////
