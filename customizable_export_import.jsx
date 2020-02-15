@@ -1,4 +1,4 @@
-﻿#target bridge-10
+﻿#target bridge
 
 if (BridgeTalk.appName == 'bridge')
 
