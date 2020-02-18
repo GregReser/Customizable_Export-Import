@@ -50,6 +50,7 @@ var codeVers = "2020-01-28"
 // experimenting with multi-column fields fieldList. See addMoveDelteBtns.but1.onClick
 // changed pluginPrefs to projectName2
 // changed var fieldList2 to var fieldList
+// testing github
 
 
 { // brace 1 open
