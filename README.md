@@ -8,7 +8,7 @@ This plugin is written in Adobe ScriptUI and utilizes the Adobe Bridge JavaScrip
 ## Main features
  - Export-import from select file(s) or from an entire folder (with option to include all subfolders)
  - Export-import metadata in tab-delimited text files
- - User can define which feilds to export-import.
+ - User can define which fields to export-import.
    - Estabished schemas (IPTC, Dublin Core, VRA) are available to build a custom field list.
    - Field name for export-import can be changed (allows synchronization with local field names)
    - Custom schemas and namespaces can be used
