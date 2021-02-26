@@ -1,4 +1,8 @@
-# Metadata Export-Import Plugin for Adobe Bridge
+# I will not be updating this repository any longer
+See this repository for updates: https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import
+
+
+
 JavaScript plugin for Adobe Bridge CS5 and higher that allows the user to export and import embedded XMP metadata from media files.
 
 Supported file types: ai, avi, bmp, dng, flv, gif, indd, indt, jpg, mp2, mp3, mp4, mov, pdf, png, psd, swf, tiff, wav, wma, wmv
@@ -12,8 +16,6 @@ This plugin is written in Adobe ScriptUI and utilizes the Adobe Bridge JavaScrip
    - Established schemas (IPTC, Dublin Core, VRA) are available to build a custom field list.
    - Field name for export-import can be changed (allows synchronization with local field names)
    - Custom schemas and namespaces can be used
-
-## For more details, see the [wiki](https://github.com/GregReser/Customizable_Export-Import/wiki)
 
 IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY XMP INFO PANEL INFO PANEL.	
 THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.*	
